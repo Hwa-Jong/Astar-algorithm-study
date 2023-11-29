@@ -132,7 +132,7 @@ class Astart():
 
     def calc_h_score(self, now_point:Point):
         finish_point = self.gmap.get_finish_point()
-        return abs(finish_point.y - now_point.x) + abs(finish_point.y - now_point.y)
+        return abs(finish_point.x - now_point.x) + abs(finish_point.y - now_point.y)
 
     def get_minimum_f_score_node(self, open_list:list):
         f_score_list = [node.f_score for node in open_list]
