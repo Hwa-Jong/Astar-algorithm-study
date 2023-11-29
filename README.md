@@ -20,7 +20,7 @@ A* algorithm study
    * 3 : wall
    * 9 : path
 
-   | SUCESS | FAIL |
+   | SUCCESS | FAIL |
    |:--------:|:------------:|
    | ![Result Screenshot1](img/success.png) | ![Result Screenshot2](img/fail.png) |
    
