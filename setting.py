@@ -1,0 +1,14 @@
+START = 1
+FINISH = 2
+
+WALL = 3
+
+
+COST = 1
+
+UP = 0
+DOWN = 1
+LEFT = 2
+RIGHT = 3
+
+PATH = 9
