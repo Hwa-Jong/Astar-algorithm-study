@@ -40,7 +40,7 @@ class GridMap():
         self.add_wall_point(6,6)
         self.add_wall_point(6,7)
         self.add_wall_point(8,6)
-        self.add_wall_point(7,6)
+        # self.add_wall_point(7,6)
         
         self.make_grid_map()
 
